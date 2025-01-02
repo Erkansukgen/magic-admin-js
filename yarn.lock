@@ -821,10 +821,10 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
   integrity sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw==
 
-"@types/atob@^2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@types/atob/-/atob-2.1.2.tgz#157eb0cc46264a8c55f2273a836c7a1a644fb820"
-  integrity sha512-8GAYQ1jDRUQkSpHzJUqXwAkYFOxuWAOGLhIR4aPd/Y/yL12Q/9m7LsKpHKlfKdNE/362Hc9wPI1Yh6opDfxVJg==
+"@types/atob@^2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@types/atob/-/atob-2.1.4.tgz#50bb756a99bbdba6995f2d10a134d21a881323b3"
+  integrity sha512-FisOhG87cCFqzCgq6FUtSYsTMOHCB/p28zJbSN1QBo4ZGJfg9PEhMjdIV++NDeOnloUUe0Gz6jwBV+L1Ac00Mw==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.14":
   version "7.1.18"

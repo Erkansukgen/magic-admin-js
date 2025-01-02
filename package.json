@@ -56,7 +56,7 @@
     "typescript": "~3.8.3"
   },
   "dependencies": {
-    "@types/atob": "^2.1.2",
+    "@types/atob": "^2.1.4",
     "atob": "^2.1.2",
     "ethereum-cryptography": "^1.0.1",
     "node-fetch": "^2.6.0"
